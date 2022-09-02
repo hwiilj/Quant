@@ -1,6 +1,6 @@
 # origin : https://youtu.be/CclFfZVSx9k
 # CAGR : 21.0% MDD : 14.6%
-
+ 
 import requests
 from bs4 import BeautifulSoup
 
